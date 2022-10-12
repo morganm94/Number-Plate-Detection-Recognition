@@ -1,4 +1,4 @@
-Contributing guidelines are as follows:
+# Contributing guidelines 🔐 are as follows:
 
 0. Star this repository and follow me
 1. Fork this repository
